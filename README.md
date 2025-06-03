@@ -1,10 +1,7 @@
 # 🔐 SecurePassManager
-
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-[![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-AES%2Fbcrypt-yellow.svg)](https://www.bouncycastle.org/)
-[![2FA](https://img.shields.io/badge/2FA-TOTP%20%7C%20QR%20Code-blueviolet.svg)](https://github.com/google/google-authenticator)
+### Osmar Pereira de Menezes<br/>
+### E-mail: menezesosmar5@gmail.com<br/>
+### [LinkedIn](https://www.linkedin.com/in/osmarmenezes/)<br/>
 
 Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de segurança e uma interface intuitiva para gerenciar suas credenciais de forma segura.
 
@@ -115,6 +112,9 @@ Para personalizar estas configurações, crie um arquivo `application.properties
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 📧 Contato
-
-E-mail: menezesosmar5@gmail.com
+## Tecnologias Utilizadas
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-AES%2Fbcrypt-yellow.svg)](https://www.bouncycastle.org/)
+[![2FA](https://img.shields.io/badge/2FA-TOTP%20%7C%20QR%20Code-blueviolet.svg)](https://github.com/google/google-authenticator)
