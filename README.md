@@ -1,4 +1,4 @@
-# 🔐 SecurePassManager
+# 🔐 Gerenciador de Senhas Seguras
 Osmar Pereira de Menezes<br/>
 Turma E03 - Embarque Digital | Manhã <br/>
 E-mail: menezesosmar5@gmail.com<br/>
