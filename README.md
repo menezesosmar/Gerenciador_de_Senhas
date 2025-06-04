@@ -1,11 +1,12 @@
 # 🔐 SecurePassManager
-### Osmar Pereira de Menezes<br/>
-### E-mail: menezesosmar5@gmail.com<br/>
-### [LinkedIn](https://www.linkedin.com/in/osmarmenezes/)<br/>
+Osmar Pereira de Menezes<br/>
+Turma E03 - Embarque Digital | Manhã <br/>
+E-mail: menezesosmar5@gmail.com<br/>
+[LinkedIn: Osmar Menezes](https://www.linkedin.com/in/osmarmenezes/)<br/>
 
-Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de segurança e uma interface intuitiva para gerenciar suas credenciais de forma segura.
+*Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recursos avançados de segurança e uma interface intuitiva para gerenciar suas credenciais de forma segura.*
 
-## ✨ Funcionalidades Principais
+## ✨ Principais Funcionalidades
 
 - 🔒 **Armazenamento Seguro**
   - Criptografia AES-256-GCM para senhas
@@ -29,8 +30,9 @@ Um gerenciador de senhas seguro e moderno desenvolvido em Java, oferecendo recur
   - Suporte a múltiplos usuários
   - Isolamento de dados entre usuários
   - Gerenciamento de permissões
+--- 
 
-## 🚀 Começando
+## 🚀 Começando o gerenciador
 
 ### Pré-requisitos
 
@@ -100,7 +102,7 @@ Para personalizar estas configurações, crie um arquivo `application.properties
 - Bloqueio temporário após tentativas falhas
 - Validação de força de senhas
 
-## 🤝 Contribuindo
+## 🤝 Quer contribuir no projeto?
 
 1. Faça um Fork do projeto
 2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
@@ -108,9 +110,6 @@ Para personalizar estas configurações, crie um arquivo `application.properties
 4. Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Tecnologias Utilizadas
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
@@ -118,3 +117,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-AES%2Fbcrypt-yellow.svg)](https://www.bouncycastle.org/)
 [![2FA](https://img.shields.io/badge/2FA-TOTP%20%7C%20QR%20Code-blueviolet.svg)](https://github.com/google/google-authenticator)
+
+---
+
+<sub>Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.<sub/>
