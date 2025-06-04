@@ -44,7 +44,7 @@ E-mail: menezesosmar5@gmail.com<br/>
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Matheeoo/SecurePassManager
+   git clone https://github.com/menezesosmar/SecurePassManager
    cd SecurePassManager
    ```
 
