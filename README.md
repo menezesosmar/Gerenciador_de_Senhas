@@ -131,11 +131,11 @@ Rode a classe `Main.java` como aplicação Java.
 
 ## 👨‍🏫 Requisitos Atendidos
 
-✅ Cadastro de credenciais
-✅ Criptografia AES
-✅ Autenticação 2FA com TOTP
-✅ Geração de senhas seguras
-✅ Verificação de vazamento via API externa
+✅ Cadastro de credenciais<br/>
+✅ Criptografia AES<br/>
+✅ Autenticação 2FA com TOTP<br/>
+✅ Geração de senhas seguras<br/>
+✅ Verificação de vazamento via API externa<br/>
 
 ---
 
