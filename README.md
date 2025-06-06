@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Autor
 
-**Osmar \[Menezes]** | Analista de Dados Financeiros
+**Osmar \[Menezes]** | Analista de Dados Financeiros<br/>
 📚 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 🔗 GitHub: [github.com/SeuUsuario](https://github.com/menezesosmar)
 
