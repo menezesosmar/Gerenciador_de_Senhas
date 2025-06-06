@@ -1,1 +1,2 @@
-# Gerenciador de Senhas
+# Gerenciador-de-senhas
+Gerenciamento de senhas
